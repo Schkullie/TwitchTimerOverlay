@@ -13,7 +13,7 @@ var startingMinutes = 7;
 var endsound = 'yes';
 //toggle if a sound should be played when the timer ends. Put 'yes' to activate and 'no' to deactivate
 
-var sound = 'Olaf';
+var sound = 'yes';
 //toggle if a sound should be played for adding/removing time. Put 'yes' to activate and 'no' to deactivate
 
 //------------------------------------------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ var slowertime = 10;
 var fastercommand = 'faster';
 //command name after the ! that removes time from the timer
 
-var slowercommand =	'';
+var slowercommand =	'slower';
 //command name after the ! that adds time to the timer
 
 var commandtimeout = 2 ;
