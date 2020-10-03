@@ -13,9 +13,3 @@ body {
     text-shadow: 3px 3px 15px black;
     text-align: center;
 }
-
-#objectionimage {
-	width: 600px;
-	margin-top: 300px;
-	opacity: 0;
-}
