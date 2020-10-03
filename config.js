@@ -30,7 +30,7 @@ var slowertime = 10;
 var fastercommand = 'faster';
 //command name after the ! that removes time from the timer
 
-var slowercommand =	'slower';
+var slowercommand = 'slower';
 //command name after the ! that adds time to the timer
 
 var commandtimeout = 2 ;
